@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Camilo Aguirre
+Hi 👋, I'm Camilo 
 </h1>
 
 <h3 align="center">
@@ -39,67 +39,6 @@ Systems Engineering Student | Software Developer | Database & Networking Enthusi
 
 <br clear="right"/>
 
----
-
-# 🚀 Featured Projects
-
-## ⚽ Football Academy Management System
-
-Enterprise database management system developed with Oracle Database 12c.
-
-### Highlights
-
-- Four-layer architecture
-- Oracle Roles
-- PL/SQL Packages
-- Triggers
-- Views
-- Stored Procedures
-- Indexes
-- Transaction Management
-- Role-Based Security
-
-**Tech Stack**
-
-Oracle Database • SQL • PL/SQL
-
----
-
-## 🚲 UniCycle
-
-Front-end prototype of a university bike-sharing platform.
-
-### Features
-
-- Authentication UI
-- Dashboard
-- Interactive Station Map
-- Bicycle Rental Simulation
-- Notifications
-- Rewards System
-- AI Assistant
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
----
-
-## 👞 Shoe Factory Management System *(In Progress)*
-
-Software engineering project focused on digitalizing the production and sales process of a footwear manufacturing company.
-
-Planned modules include:
-
-- Inventory
-- Production
-- Orders
-- Customers
-- Sales
-- Reports
-- Dashboard
-
----
 
 # 💻 Technical Skills
 
